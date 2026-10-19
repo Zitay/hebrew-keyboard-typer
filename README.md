@@ -1,9 +1,9 @@
 # ⌨️ hebrew-keyboard-typer ⌨️
 
-A fast, minimal Hebrew typing test that masures your accuracy and speed in real time.
+A fast, minimal Hebrew typing test that masures your accuracy and speed in real time⌨️⏩.
 
-The goal of the projects is to improve _my_ web development skills, and to begin my journey of developing and sharing my (hopefully finished) projects on GitHub.
+The goal of the projects is to improve **my** web development skills🌐, and to begin my journey of developing and sharing my (hopefully finished) projects on GitHub🏁.
 
-## Build with
+## Build with 🖥️
 
 - JavaScript, HTML, CSS
