@@ -1,4 +1,4 @@
-# ⌨️ hebrew-keyboard-typer ⌨️
+# ⌨️ Hebrew Typing Test ⌨️
 
 A fast, minimal Hebrew typing test that masures your accuracy and speed in real time.
 
